@@ -31,4 +31,4 @@ If I was given the opportunity to further develop my knowledge and skills in AR/
 2. My second step was to render each line of the array to the DOM. I did this by adding <li> tags around the "song" array.
 3. My third step was to display each array item to the page sequentially, at 1.5 second intervals. This was a challenge. I accomplished this by putting in a for loop in order to cycle through the individual lines within the array as well as setting up a setTimeout to implement the 1.5 second intervals into the challenge. 
 4. Finally I added some CSS styling to the mix to bring together a nice and clean presentation.  
-CODE CHALLENGE - Link - https://codesandbox.io/s/xo07y58ylo
+**CODE CHALLENGE - Link** - https://codesandbox.io/s/xo07y58ylo
