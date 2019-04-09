@@ -16,15 +16,17 @@
 
 ### 2 - Inspiration
 1. **LIVING WINE LABELS** 
-    - I had a friend show me this app. The idea of how they were able to show an AR animation off of print inspired me to jump into AR development. I wanted to further expand my knowledge and skills in Unity, Vuforia, and Maya to bring my Blockville project to life.
+    - I had a friend show me this app. The idea of how the app is able to show an AR animation off of a print design/label inspired me to jump into AR development. I wanted to further expand my knowledge and skills in Unity, Vuforia, and Maya to bring my Blockville project to life.
     - **Link:** https://www.livingwinelabels.com/en-ca/19-crimes
 2. **PARTICLES.JS** 
     - It started with me wanting inspiration on how to make my portfolio pop. While scrolling through different pieces on CodePen I came across this Particle.js example. It inspired me to implement a similar design within my own portfolio landing page.
     - **Link:** https://codepen.io/koca/pen/eNJVKQ 
-3. **shgd**
+3. **SNAPCHAT'S UTILITY PLATFORM**
+    - I am crazy for AR so when I heard about what Snapchat is doing with it, I was hooked. They are the first big company to really push that kind of work to the limits they have. They now have the capability to scan questions and answer them as well as look at and object and find a similar GIFs. These kinds of articles more so motivate me to dig deep and build bigger and better products whether they be AR, VR, Web or App. 
+    - **Link:** https://techcrunch.com/2019/04/04/snapchat-scan-platform/
 
 ### 3 - Focus
-If I was given the opportunity to further develop my knowledge and skills in AR/VR and App/Web development I would take it and run with it. I would love to learn more on how to use C# and Javascript when developing experiences with AR and VR projects. I would also love to learn more on how to use php & Javascript when developing apps or websites. I have breifly investigated python as well, if I ever had the chance to learn more about it and AI I would take that opportunity in a heart beat.
+If I was given the opportunity to further develop my knowledge and skills in AR/VR and App/Web development I would take it and run with it. I would love to learn more on how to use C# and Javascript. There is so much great things that I could do with those coding languages that I have yet to discover. I would love to learn more on how to use php & Javascript when developing apps or websites. I have breifly investigated python as well, if I ever had the chance to learn more about it and AI I would take that opportunity in a heart beat.
 
 ### 4 - Code Challenge
 1. My first step was to create an array out of the list that was provided. To do so I enclosed the list using square brackets followed by putting quotations on each line and making sure they were seperated by a comma.
